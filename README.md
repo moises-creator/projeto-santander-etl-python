@@ -29,7 +29,6 @@ O desafio consiste nos seguintes passos:
 
 - [API Santander Dev Week 2023](https://sdw-2023-prd.up.railway.app/swagger-ui/index.html)
 - [Documentação da API ChatGPT da OpenAI](https://platform.openai.com/docs/api-reference/introduction)
-- [Artigo sobre IA Generativa](https://www.example.com/artigo-ia-generativa)
 
 
 Divirta-se codificando e aprimorando a experiência dos nossos clientes com mensagens personalizadas! 💼🎉📩
